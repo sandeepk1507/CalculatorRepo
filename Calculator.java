@@ -6,5 +6,6 @@ int c;
 c=a+b;
 
 System.out.println("Welcome");
+System.out.println(c);
 }
 }
